@@ -1,0 +1,1 @@
+This repository contains the sources for my site http://tratcher.azurewebsites.net/.  This site/code is used to dogfood/sample OWIN/Katana components.
