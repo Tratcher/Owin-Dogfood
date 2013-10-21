@@ -33,6 +33,7 @@ namespace KittenStatusCodes
                 { 402, StatusCodeAction.FallbackToKittens },
                 { 403, StatusCodeAction.FallbackToKittens },
                 { 404, StatusCodeAction.ReplaceResponseWithKittens },
+                { 500, StatusCodeAction.FallbackToKittens },
             };
         }
 

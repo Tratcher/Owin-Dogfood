@@ -104,6 +104,8 @@ namespace KittenStatusCodes
             links.Add(402, "http://farm8.staticflickr.com/7165/6513001321_8ecc400e0a.jpg");
             links.Add(403, "http://farm8.staticflickr.com/7173/6508023617_f3ffc34e17.jpg");
             links.Add(404, "http://farm8.staticflickr.com/7172/6508022985_b22200ced0.jpg");
+
+            links.Add(500, "http://farm8.staticflickr.com/7001/6509400855_aaaf915871.jpg");
         }
     }
 }
